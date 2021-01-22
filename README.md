@@ -4,4 +4,4 @@
 * Linguagem C.
 * Sinta-se livre para com comentários e sugestões.
 * Desenvolvido durante as aulas de Algoritmos e Técnicas de Programação 1 em FCT-UNESP Presidente Prudente.
-* Em constante aprendizado
+* Professor Marco Antonio Piteri.
