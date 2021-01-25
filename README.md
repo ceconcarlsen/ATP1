@@ -1,4 +1,4 @@
-# ATP1-C
+# Algoritmos e Técnicas de Programação 1
  Stirling/Conjectura de Golbach/Número Felizes/Primos Gêmeos.
  
 * Linguagem C.
